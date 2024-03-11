@@ -31,4 +31,5 @@ Developing a brain stroke image detection system using Flask, OpenCV, TensorFlow
 Addressing these challenges systematically will contribute to the successful development and deployment of a brain stroke image detection system using Flask, OpenCV, TensorFlow, and Keras.
 
 # Still the UI is in progress
+Made by Shivam Basak,Riddhith Banerjee
 
