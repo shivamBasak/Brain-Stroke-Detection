@@ -6,7 +6,7 @@ This project involves developing a system to detect brain strokes from medical i
 
 The motivation came from the critical need for early and accurate detection of brain strokes, which can significantly impact patient outcomes. I wanted to leverage technology to create a tool that could help radiologists and doctors diagnose strokes more efficiently and accurately, ultimately improving patient care.
 
-#  dataset
+#  Dataset
 
 I used publicly available datasets from [Kaggle](https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset/data). These datasets provided labeled brain scans, which were essential for training and validating the detection model.
 
