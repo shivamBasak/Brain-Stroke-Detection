@@ -18,7 +18,7 @@ We chose CNNs because they are highly effective for image processing tasks. CNNs
 
 The core of the model is a convolutional neural network (CNN) with several convolutional layers followed by pooling layers to extract features from the images. For segmentation tasks, I used a U-Net architecture, which includes an encoder-decoder structure with skip connections to capture spatial information effectively. The final layer uses a softmax activation function for classification, identifying stroke regions in the image.
 
-# Chalenges
+# Challenges
 Here are three key challenges faced during the "Brain Stroke Image Detection" project:
 
 1. **Limited Labeled Data**:
