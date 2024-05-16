@@ -1,4 +1,4 @@
-# Brain-Stroke-Detection
+# Brain-Stroke-Classification (Deep Learning)
 
 This project involves developing a system to detect brain strokes from medical images, such as CT or MRI scans. The system uses image processing and machine learning techniques to identify and classify stroke regions within the brain, aiming to provide early diagnosis and assist medical professionals in treatment planning.
 
