@@ -1,4 +1,4 @@
-![Project](https://github.com/shivamBasak/Brain-Stroke-Classification/blob/main/law2.0.png)
+![Project](https://github.com/shivamBasak/Brain-Stroke-Classification/blob/main/ex.112.png)
 # Brain-Stroke-Classification (Using Deep Learning)
 
 This project involves developing a system to detect brain strokes from medical images, such as CT or MRI scans. The system uses image processing and machine learning techniques to identify and classify stroke regions within the brain, aiming to provide early diagnosis and assist medical professionals in treatment planning.
